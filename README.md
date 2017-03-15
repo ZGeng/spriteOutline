@@ -10,4 +10,4 @@ A unity sprite outline solution. unity verson:5.5.2f1
 
 ![cruchoutline](https://cloud.githubusercontent.com/assets/5509512/23899767/a008b54c-0873-11e7-92bd-69bdb167bbbb.png)
 
-
+Sprite outline shader modifies from http://nielson.io/2016/04/2d-sprite-outlines-in-unity/ by Ryan Nielson.
