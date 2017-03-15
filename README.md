@@ -1,5 +1,5 @@
 # spriteOutline
-A sprite outline solution.
+A unity sprite outline solution. unity verson:5.5.2f1
 # Features
 * 1 Outline is a seperate sprite, the order in the layer can be set.
 
